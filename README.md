@@ -5,5 +5,5 @@ A simple search engine app that gives the most popular videos just like the yout
 
 ### The Page looks like........
 
-![Screenshot](https://github.com/kalpana123-1/Search-Engine-App/edit/main/Sc)
+![Screenshot](https://github.com/kalpana123-1/Search-Engine-App/blob/main/Screenshot%20from%202021-12-12%2013-43-45.png)
 

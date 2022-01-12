@@ -18,7 +18,7 @@ After learning the Basic HTML, CSS and JavaScript, I tried to clone the yourube 
   <li>Fetching the data using APIs</li>
 </ul>
 
-### Tech Stack: HTML | CSS | Javascript | Node | MongoDB
+### Tech Stack: HTML | CSS | Javascript
 
 
 
